@@ -11,10 +11,10 @@
 #substraction means minus
 #divide means division
 
-#Instructions
-print("To multiply any 2 numbers use keyword multiplication")
-print("To add any 2 numbers use keyword addition")
-print("To divide any 2 numbers use keyword division")
+#Instructions on hou to use
+#To multiply any 2 numbers use keyword multiplication
+#To add any 2 numbers use keyword addition
+#To divide any 2 numbers use keyword division
 
 
 print("Enter you first number here")#ask for the user for first number
